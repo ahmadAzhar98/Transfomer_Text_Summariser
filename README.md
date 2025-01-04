@@ -1,5 +1,5 @@
 # Transfomer_Text_Summarzier
-This one-line Python jupyternotebook showcases just a glimpse of the incredible advancements in transformers and their revolutionary impact on solving complex language tasks.
+This one-line Python Jupyter Notebook showcases just a glimpse of the incredible advancements in transformers and their revolutionary impact on solving complex language tasks.
 
 # Pre-requisite
 Install any vairant Python 3.8.
