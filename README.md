@@ -5,7 +5,7 @@ This one-line Python program showcases just a glimpse of the incredible advancem
 Install any vairant Python 3.8.
 
 # Dependency
-pip install transformers for windows or pip3 install transformers mac.
+pip install transformers for windows or pip3 install transformers for mac.
 
 
 # How to use
